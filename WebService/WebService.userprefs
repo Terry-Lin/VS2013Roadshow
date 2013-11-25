@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebService.Android/MainActivity.cs">
+    <Files>
+      <File FileName="WebService/WebServiceViewController.cs" Line="11" Column="1" />
+      <File FileName="WebService.Android/MainActivity.cs" Line="84" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="WebService.Android" expanded="True" selected="True">
+            <Node name="WebReferences" expanded="True" />
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="WebService.iOS" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebService.Android MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
